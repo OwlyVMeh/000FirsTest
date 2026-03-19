@@ -1,0 +1,8 @@
+Package: labrab8
+Version: 0.0.1
+Section: utils
+Priority: optional
+Architecture: all
+Depends: openjdk-25-jre
+Maintainer: OwlyVMeh <owlyvmeh@proton.me>
+Description: Variant 8

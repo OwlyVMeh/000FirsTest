@@ -1,0 +1,2 @@
+#!/bin/sh
+java -jar /opt/labrab8/labrab8-0.0.1.jar "$@"
