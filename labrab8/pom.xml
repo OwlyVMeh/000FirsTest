@@ -55,7 +55,7 @@
                             <controlDir>${basedir}/src/main/resources/deb/control</controlDir>
                             <dataSet>
                                 <data>
-                                    <src>${project.build.directory}/${project.build.finalName}.jar</src>
+                                    <src>${project.build.directory}/${project.build.finalName}-jar-with-dependencies.jar</src>
                                     <type>file</type>
                                     <mapper>
                                         <type>perm</type>
