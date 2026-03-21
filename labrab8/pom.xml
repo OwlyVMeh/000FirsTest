@@ -10,6 +10,10 @@
     <properties>
         <exec.mainClass>owly.labrab8.LabRab8</exec.mainClass>
         <maven.compiler.release>25</maven.compiler.release>
+
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
+
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jdeb.version>1.14</jdeb.version>
     </properties>
