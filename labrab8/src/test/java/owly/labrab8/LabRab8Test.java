@@ -30,9 +30,9 @@ public class LabRab8Test {
         double avg = calcDiagonalAverage(testA, testB);
         replaceNonDiagonal(testA, avg);
         if (!Arrays.deepEquals(testA, expA)) 
-            throw new Exception("Test FAILED! matrixA");
+            throw new Exception("Test FAILED! matrix A");
         replaceNonDiagonal(testB, avg);
         if (!Arrays.deepEquals(testB, expB))
-            throw new Exception("Test FAILED! matrixB");
+            throw new Exception("Test FAILED! matrix B");
     }
 }
