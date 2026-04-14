@@ -11,7 +11,7 @@ public class LabRab8 {
         System.out.println("Matrix A (5x5):");
         printMatrix(A);
 
-        System.out.println("Matrix B (6x6):");
+        System.out.println("Matrix C (6x6):");
         printMatrix(B);
 
         // Считаем среднее арифметическое элементов обеих диагоналей
